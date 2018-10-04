@@ -6,10 +6,10 @@ Exercices
 Jacky est un entrepreneur qui a échoué dans son précédent projet UberLowCost à cause de soucis juridiques. Il veut maintenant aider les personnes comme lui, qui ne s’y connaissent pas en droit mais qui ont des responsabilités dans leur projet. Il souhaite faire prendre conscience des enjeux du juridique dans le web, proposer un outil pour trouver rapidement de l’information, qui soit collaboratif et même où l’on peut acheter une review sur notre cahier des charges techniques.
 
 ## CDC
-* Schéma UML des classes à partir des user stories
-* Maquettes rapide (sur papier ou bootstrap ou marvel app) et qui correspond aux besoins
-* Acteurs : dev team scrum, administrateur du site (ajout de licences et de catégories)
-* Java Hibernate/Dao + JSP avec une table : licence (catégories : copy right et copy left, type GPL ect, champs de compatibilités entre licence)
+* 1// Schéma UML des classes à partir des user stories
+* 2// Maquettes rapide (sur papier ou bootstrap ou marvel app) et qui correspond aux besoins
+* 3// Acteurs : dev team scrum, administrateur du site (ajout de licences et de catégories)
+* 4// Java Hibernate/Dao + JSP avec une table : licence (catégories : copy right et copy left, type GPL ect, champs de compatibilités entre licence)
 
 
 ## User Stories
